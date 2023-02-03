@@ -1,0 +1,21 @@
+/*palette de couleur :
+noir : #010001
+Blanc : #FFFFFF
+mauve : #783F8E
+vert : #519872
+*/
+@font-face {
+    font-family: doctorGlitch;
+    src: url("police/doctorGlitch");
+    }  
+body{
+    background-color: rgb(0, 0, 0);
+}
+p{
+    color: white;
+}
+.box{
+    text-align: center;
+    background-color: rgb(58, 58, 58);
+    width: 80%;
+}
